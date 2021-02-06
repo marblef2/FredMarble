@@ -81,3 +81,6 @@ p{
     font-size: 1em;
     font-weight: 400;
 }
+a:hover {
+    background-color: #00008b;
+  }
